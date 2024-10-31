@@ -24,3 +24,6 @@ Institución Educativa Técnica
 Agropecuario
 Palmar De Varela/Atlántico
 
+### **FORMACIÓN ADICIONAL**
+- construcción de base de datos con mysql
+- produccion acuicola
