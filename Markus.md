@@ -8,4 +8,8 @@
 - **telefono**: +57 3018163709
 - **correo**: markusgutierrez10@gmail.com
 - **Dirección:** carrera 10 #19-34 Palmar De Varela /Atlantico
-- 
+
+### **HABILIDADES**
+- programación back-end.
+- Creación de base de datos en mysql.
+- Conocimiento (HTML, CSS, Javascript)
