@@ -13,3 +13,14 @@
 - programación back-end.
 - Creación de base de datos en mysql.
 - Conocimiento (HTML, CSS, Javascript)
+
+### **FORMACIÓN ACADEMICA**
+- **Primaria (2015)**
+Institución Educativa Técnica Maria
+Auxiliadora
+Sabanagrande/Atlántico
+- **Bachiller (2021)**
+Institución Educativa Técnica
+Agropecuario
+Palmar De Varela/Atlántico
+
