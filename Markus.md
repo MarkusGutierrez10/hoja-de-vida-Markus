@@ -27,3 +27,10 @@ Palmar De Varela/Atlántico
 ### **FORMACIÓN ADICIONAL**
 - construcción de base de datos con mysql
 - produccion acuicola
+
+
+### **EXPERIENCIA LABORAL**
+- **programacion de sotfware**
+Centro Nacional Colombo Áleman
+SENA
+6 meses
